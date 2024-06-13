@@ -1,0 +1,35 @@
+<config outpath=".">
+  <detector chipSN="0" path="../calibData/" name="C-NEAR_p0">
+    <digital run="476"/>
+    <analog run="477"/>
+    <threshold run="487"/>
+    <noise run="487"/>
+    <tot run="488"/>
+    <source run="502"/>
+  </detector>
+  <detector chipSN="1" path="../calibData/" name="C-NEAR_p1">
+    <digital run="476"/>
+    <analog run="477"/>
+    <threshold run="487"/>
+    <noise run="487"/>
+    <tot run="488"/>
+    <source run="502"/>
+  </detector>
+  <detector chipSN="2" path="../calibData/" name="C-NEAR_p2">
+    <digital run="476"/>
+    <analog run="477"/>
+    <threshold run="487"/>
+    <noise run="487"/>
+    <tot run="488"/>
+    <source run="502"/>
+  </detector>
+  <detector chipSN="3" path="../calibData/" name="C-NEAR_p3">
+    <digital run="476"/>
+    <analog run="477"/>
+    <threshold run="487"/>
+    <noise run="487"/>
+    <tot run="488"/>
+    <source run="502"/>
+  </detector>
+</config>
+

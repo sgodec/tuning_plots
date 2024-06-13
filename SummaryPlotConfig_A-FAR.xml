@@ -1,0 +1,27 @@
+<config outpath=".">
+  <detector chipSN="4" path="../calibData/" name="A-FAR_p0">
+    <digital run="602"/>
+    <analog run="603"/>
+    <threshold run="613"/>
+    <noise run="613"/>
+    <tot run="612"/>
+    <source run="617"/>
+  </detector>
+  <detector chipSN="6" path="../calibData/" name="A-FAR_p2">
+    <digital run="602"/>
+    <analog run="603"/>
+    <threshold run="613"/>
+    <noise run="613"/>
+    <tot run="612"/>
+    <source run="617"/>
+  </detector>
+  <detector chipSN="7" path="../calibData/" name="A-FAR_p3">
+    <digital run="602"/>
+    <analog run="603"/>
+    <threshold run="613"/>
+    <noise run="613"/>
+    <tot run="612"/>
+    <source run="617"/>
+  </detector>
+</config>
+

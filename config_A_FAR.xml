@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<config outpath="../calibData/calibData/">
+  <detector chipSN="4" path="../calibData/" name="p0">
+    <threshold run="000613"/>
+    <source run="000616" module="AFP-B4-M56" config="615"/>
+    <tot run="000612"/>
+  </detector>
+  <detector chipSN="6" path="../calibData/" name="p2">
+    <threshold run="000613"/>
+    <source run="000616" module="AFP-B4-M38" config="615"/>
+    <tot run="000612"/>
+  </detector>
+  <detector chipSN="7" path="../calibData/" name="p3">
+    <threshold run="000613"/>
+    <source run="000616" module="AFP-B2-M26" config="615"/>
+    <tot run="000612"/>
+  </detector>
+</config>
